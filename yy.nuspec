@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.YYModel.iOS</id>
+        <version>1.0.4</version>
+        <description>Xamarin Binding Library - YYModel</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - YYModel</title>
+        <releaseNotes>YYModel 1.0.4</releaseNotes>
+        <summary>Xamarin Binding Library - YYModel</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/yymodel-ios-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.iOS, yymodel</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.YYModel.iOS/bin/Release/Naxam.YYModel.iOS.dll" target="lib/Xamarin.iOS10/Naxam.YYModel.iOS.dll" />
+    </files>
+</package>
